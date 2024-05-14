@@ -1,0 +1,7 @@
+I developed this game using HTML, CSS and JavaScript.
+You have to guess what the number is, this number is in the range 1-20.
+a) If you enter a higher number, you will be warned with the phrase "Too high!".
+b) If you enter a number that is too small, you will be warned with the phrase "Too low!".
+c) If you enter a number smaller than 1, you will be warned with the phrase "No number!".
+d) If you guessed the number, the background will turn green and you will be warned with the phrase "Correct Number!".
+You will be able to continue the game by pressing the button "Again!" from the upper-left side, and once you press it, the Highscore will be memorized.
